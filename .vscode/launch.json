@@ -1,0 +1,58 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ascend",
+            "request": "launch",
+            "mainClass": "Ascend",
+            "projectName": "hw1-NoaMokady_6f36b6dd"
+        },
+        {
+            "type": "java",
+            "name": "Bill3 (debug)",
+            "request": "launch",
+            "mainClass": "Bill3",
+            "projectName": "hw1-NoaMokady_6f36b6dd",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Demo0",
+            "request": "launch",
+            "mainClass": "Demo0",
+            "projectName": "hw1-NoaMokady_6f36b6dd"
+        },
+        {
+            "type": "java",
+            "name": "FVCalc",
+            "request": "launch",
+            "mainClass": "FVCalc",
+            "projectName": "hw1-NoaMokady_6f36b6dd"
+        },
+        {
+            "type": "java",
+            "name": "NumWords",
+            "request": "launch",
+            "mainClass": "NumWords",
+            "projectName": "hw1-NoaMokady_6f36b6dd"
+        },
+        {
+            "type": "java",
+            "name": "TimeFormat",
+            "request": "launch",
+            "mainClass": "TimeFormat",
+            "projectName": "hw1-NoaMokady_6f36b6dd"
+        }
+    ]
+}
