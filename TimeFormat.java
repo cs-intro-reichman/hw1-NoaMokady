@@ -27,8 +27,10 @@ public class TimeFormat {
 			if (hours > 12) {hours -= 12;}
 			suffix = "PM";
 		}
-		String minutesText = String.format("", minutes);
-		if (minutes < 10) {minutesText = String.format("0%s", minutes);}
+		String minutesText = String.format("%s", minutes);
+		if (minutes < 10) {
+			minutesText = String.format("0%s", minutes);
+		}
 		System.out.println(String.format("%s:%s %s", hours, minutesText, suffix));
 	}
 }

@@ -56,7 +56,7 @@
             "request": "launch",
             "mainClass": "TimeFormat",
             "projectName": "hw1-NoaMokady_6f36b6dd",
-            "args": ["12:03"]
+            "args": ["20:20"]
         }
     ]
 }
