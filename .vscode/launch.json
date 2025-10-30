@@ -38,7 +38,8 @@
             "name": "FVCalc",
             "request": "launch",
             "mainClass": "FVCalc",
-            "projectName": "hw1-NoaMokady_6f36b6dd"
+            "projectName": "hw1-NoaMokady_6f36b6dd",
+            "args": ["100", "10", "2"]
         },
         {
             "type": "java",
