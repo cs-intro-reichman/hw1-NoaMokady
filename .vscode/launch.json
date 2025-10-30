@@ -48,7 +48,7 @@
             "request": "launch",
             "mainClass": "NumWords",
             "projectName": "hw1-NoaMokady_6f36b6dd",
-            "args": ["517"]
+            "args": ["2024"]
         },
         {
             "type": "java",
@@ -56,7 +56,7 @@
             "request": "launch",
             "mainClass": "TimeFormat",
             "projectName": "hw1-NoaMokady_6f36b6dd",
-            "args": ["12:05"]
+            "args": ["12:03"]
         }
     ]
 }
