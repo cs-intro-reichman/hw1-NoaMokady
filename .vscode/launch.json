@@ -46,7 +46,8 @@
             "name": "NumWords",
             "request": "launch",
             "mainClass": "NumWords",
-            "projectName": "hw1-NoaMokady_6f36b6dd"
+            "projectName": "hw1-NoaMokady_6f36b6dd",
+            "args": ["517"]
         },
         {
             "type": "java",
